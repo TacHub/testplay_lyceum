@@ -1,0 +1,14 @@
+{
+  "name": "hello-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "dynamis",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}

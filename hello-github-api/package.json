@@ -1,0 +1,14 @@
+{
+  "name": "hello-github-api",
+  "version": "1.0.0",
+  "description": "Github API テストコード",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "dynamis",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
